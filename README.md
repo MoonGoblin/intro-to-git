@@ -8,3 +8,5 @@
 - Where all our snapshots are stored
 
 # Start with Git - Review the Basics
+
+# Left off at Git - Add All Files - Start on Git - Remove Files
