@@ -9,4 +9,4 @@
 
 # Start with Git - Review the Basics
 
-# Left off at Git - Add All Files - Start on Git - Remove Files
+# Start at Git - Ignore Files
